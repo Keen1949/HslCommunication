@@ -311,6 +311,5 @@ Not free open source. you can refer to webside: http://www.hslcommunication.cn/C
 
 ## How to sponsor author?
 
-[PayPal](https://www.PayPal.Me/hslcommunication)
 
 Thank you for your understanding 
