@@ -313,6 +313,4 @@ Not free open source. you can refer to webside: http://www.hslcommunication.cn/C
 
 [PayPal](https://www.PayPal.Me/hslcommunication)
 
-![Alipay](https://raw.githubusercontent.com/dathlin/HslCommunication/master/imgs/support.png)
-
 Thank you for your understanding 
